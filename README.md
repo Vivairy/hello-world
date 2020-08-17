@@ -1,2 +1,2 @@
 # hello-world
-Bunch of useful stuff
+Bunch of stuff
